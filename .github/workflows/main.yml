@@ -10,6 +10,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Profile
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
       - name: MostLang
         uses: lowlighter/metrics@latest
         with:
