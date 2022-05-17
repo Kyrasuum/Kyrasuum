@@ -62,4 +62,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: Kyrasuum/strangelet
+          plugin_repositories_featured: Kyrasuum/strangelet, KaraAlor/AgeOfXianxia
