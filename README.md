@@ -1,7 +1,9 @@
 
 <img src="/github-header-image.png" width="100%">
-I’m interested in video game design and physics engines. \
-I am currently learning more about Haxe, Go, and Terminal Text Editors. \
+I’m interested in video game design and physics engines.
+
+I am currently learning more about Haxe, Go, and Terminal Text Editors.
+
 [📫 Email](plorentz7@gmail.com)
 
 ## 🔧 Technologies & Tools
