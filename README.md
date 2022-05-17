@@ -1,6 +1,6 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name in Phillip Lorentz. I’m interested in video game design and physics engines. \
+<img src="/github-header-image.png" width="100%">
+I’m interested in video game design and physics engines. \
 I am currently learning more about Haxe, Go, and Terminal Text Editors. \
 [📫 Email](plorentz7@gmail.com)
 
