@@ -24,15 +24,8 @@ I am currently learning more about Haxe, Go, and Terminal Text Editors. \
 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Kyrasuum/Kyrasuum">
-<img align="center" src="/metrics.plugin.achievements.svg" alt="Metrics">
-</a>
-<a href="https://github.com/Kyrasuum/Kyrasuum">
-<img align="center" src="/metrics.plugin.habits.facts.svg" alt="Metrics">
-</a>
-<a href="https://github.com/Kyrasuum/Kyrasuum">
-<img align="center" src="/metrics.plugin.languages.recent.svg" alt="Metrics">
-</a>
-<a href="https://github.com/Kyrasuum/Kyrasuum">
-<img align="center" src="/metrics.plugin.languages.svg" alt="Metrics">
-</a>
+<img align="left" src="/github-metrics.svg" alt="Metrics">
+<div><img align="right" src="/metrics.plugin.repositories.svg" alt="Metrics">
+<img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics">
+<img align="right" src="/metrics.plugin.habits.facts.svg" alt="Metrics">
+<img align="right" src="/metrics.plugin.languages.svg" alt="Metrics"></div>
