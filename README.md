@@ -25,17 +25,14 @@ I am currently learning more about Haxe, Go, and Terminal Text Editors. \
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Kyrasuum/Kyrasuum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrasuum&hide=java,html,tex,css,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="/metrics.plugin.achievements.svg" alt="Metrics">
 </a>
 <a href="https://github.com/Kyrasuum/Kyrasuum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyrasuum&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<img align="center" src="/metrics.plugin.habits.facts.svg" alt="Metrics">
 </a>
-
-<a href="https://github.com/Kyrasuum/strangelet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyrasuum&repo=strangelet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Kyrasuum/Kyrasuum">
+<img align="center" src="/metrics.plugin.languages.recent.svg" alt="Metrics">
 </a>
-
-
-<a href="https://github.com/KaraAlor/AgeOfXianxia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaraAlor&repo=AgeOfXianxia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+<a href="https://github.com/Kyrasuum/Kyrasuum">
+<img align="center" src="/metrics.plugin.languages.svg" alt="Metrics">
+</a>
