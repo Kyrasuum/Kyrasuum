@@ -26,8 +26,8 @@ I am currently learning more about Haxe, Go, and Terminal Text Editors.
 
 
 ## &#x1f4c8; GitHub Stats
-<img align="left" src="/github-metrics.svg" alt="Metrics" width="100%">
-<div><img align="right" src="/metrics.plugin.repositories.svg" alt="Metrics" width="100%">
-<img align="right" src="/metrics.plugin.achievements.svg" alt="Metrics" width="100%">
-<img align="right" src="/metrics.plugin.habits.facts.svg" alt="Metrics" width="100%">
-<img align="right" src="/metrics.plugin.languages.svg" alt="Metrics" width="100%"></div>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="80%">
+<div><img align="center" src="/metrics.plugin.repositories.svg" alt="Metrics" width="80%">
+<img align="center" src="/metrics.plugin.achievements.svg" alt="Metrics" width="80%">
+<img align="center" src="/metrics.plugin.habits.facts.svg" alt="Metrics" width="180%">
+<img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="80%"></div>
